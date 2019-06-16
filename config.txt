@@ -1,6 +1,6 @@
 owner=472221987151020032
-prefix=m
-game=Bot Powerz & m7arb
+prefix=g
+game=Nb
 stayinchannel=true
 songinstatus=false
 token=NTg5Nzc1NDI0MTQyMTgwMzU0.XQYlaA.OWNzCMl6OffebyVBcL0YrdwVQnk
