@@ -1,6 +1,6 @@
 owner=472221987151020032
 prefix=m
-game=Break | !play
+game=Statr Mplay
 stayinchannel=true
 songinstatus=false
 token=NTg5Nzc1NDI0MTQyMTgwMzU0.XQYlaA.OWNzCMl6OffebyVBcL0YrdwVQnk
